@@ -5,7 +5,6 @@ class Grocery {
     price: number;
 
     let items: string[] =['Milk', 'Bread', 'Eggs'];
-  
  
     }
   
